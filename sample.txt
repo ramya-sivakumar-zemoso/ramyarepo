@@ -1,2 +1,1 @@
-Hi
-This is Ramya
+This is a sample txt file
